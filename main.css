@@ -3,8 +3,25 @@ html {
     flex-direction: column;
     text-align: center;
     background: lightblue;
+    font-family: 'Raleway', Helvetica, sans-serif;
 }
 
-main {
+/* body {
+    margin: 0% 12%;
+} */
+/* 
+#title {
 
+} */
+
+main {
+    display: flex vertical;
+    background: white;
+    border-radius: 5px;
+    margin: 5% 10%;
+}
+
+label {
+    width: 100%;
+    text-align: left;
 }
